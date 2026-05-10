@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | BI | SQL | Power BI | Python
 
-> _Picking up broken processes, fixing the data underneath, and turning them into something repeatable._
+> _Analytical by instinct. Data Analyst with a Master's in Data Science. I find patterns in data and the processes around it, and surface insights for decisions. Looking for roles where that thinking is the job._
 
 📍 Melbourne, VIC, Australia
 📧 [angadkadam08@gmail.com](mailto:angadkadam08@gmail.com) · 📱 +61 405 636 599
@@ -16,7 +16,7 @@ Master of Data Science from La Trobe University. Currently a Data Analyst at the
 
 I work mainly in **SQL, Power BI, Python, R, and PostgreSQL**, with hands-on exposure to Azure ML, AWS RDS, and Oracle PL/SQL.
 
-Most of my real impact comes from one pattern. **Find a slow, manual process. Fix the data layer. Make the workflow repeatable. Show the result in a dashboard.**
+Most of my real impact follows one pattern. **Read the data. Find what it's saying. Decide what's needed. Build something the team will use.**
 
 ---
 
