@@ -1,108 +1,100 @@
 # Angad Kadam
 
-### 📊 Data Analyst | BI | SQL | Power BI | Python
+### 📊 Data Analyst | BI | SQL | Power BI | Python | Process Automation
 
-> _Analytical by instinct. Data Analyst with a Master's in Data Science. I find patterns in data and the processes around it, and surface insights for decisions. Looking for roles where that thinking is the job._
+> _Analytical by instinct. I find patterns in operational and research data, understand the process around them, and turn that into something the team can actually use._
 
-📍 Melbourne, VIC, Australia
-📧 [angadkadam08@gmail.com](mailto:angadkadam08@gmail.com) · 📱 +61 405 636 599
+📍 Melbourne, VIC, Australia  
+📧 [angadkadam08@gmail.com](mailto:angadkadam08@gmail.com) · 📱 +61 405 636 599  
 🔗 [LinkedIn](https://linkedin.com/in/angad-kadam-03b606159) · [GitHub](https://github.com/angad08) · [Kaggle](https://kaggle.com/angadk268)
 
 ---
 
 ## 👤 Profile
 
-Master of Data Science from La Trobe University. Currently a Data Analyst at the Consulate General of India, Melbourne.
+Master of Data Science from La Trobe University. Currently working across data, reporting, validation, and operational improvement at the Consulate General of India, Melbourne.
 
-I work mainly in **SQL, Power BI, Python, R, and PostgreSQL**, with hands-on exposure to Azure ML, AWS RDS, and Oracle PL/SQL.
+My strongest work sits where data meets real workflow problems: cleaning messy records, finding the process gap, building the reporting layer, and creating tools people can actually use.
 
-Most of my real impact follows one pattern. **Read the data. Find what it's saying. Decide what's needed. Build something the team will use.**
+I work mainly with **SQL, Power BI, Python, PostgreSQL, Excel, and R**, with hands-on exposure to Azure ML, AWS RDS, Azure SQL, and Oracle PL/SQL.
 
 ---
 
 ## ⚡ Impact at a Glance
 
-| 🎯 What | 📈 Result |
+| 🎯 Area | 📈 Result |
 |---|---|
-| **DocuMate automation** | **~99% efficiency gain.** Document preparation went from minutes per record to seconds across the batch. |
-| **Downstream effect** | Once DocuMate was live, the **Dispatch team cleared a 96% backlog in one week**. That same volume took close to a month before. |
-| **Throughput** | 108 records in ~16 seconds. Production runs handle 1,440-record batches cleanly. |
-| **Consular validation** | 150+ records reviewed weekly. Issues caught before processing, not after. |
-| **Cross-system audit** | Reconciled disconnected systems for an ARN audit. Delivered clean output under time pressure. |
-| **Hybrid Teaching research** | Co-authored published paper. Faculty now use dashboards instead of spreadsheets. |
-| **Database redesign** | Flat data restructured into normalised relational models. Reporting time dropped ~30%. |
-
----
-
-## 🛠️ Tech Stack
-
-**Analytics & BI** · `SQL` · `Power BI` · `DAX` · `Power Query` · `Excel` · `Data Modelling` · `EDA`
-
-**Programming & Automation** · `Python` · `R` · `pandas` · `NumPy` · `Streamlit`
-
-**Databases & Cloud** · `PostgreSQL` · `MySQL` · `Oracle PL/SQL` · `Azure SQL` · `AWS RDS` · `ODBC`
-
-**Machine Learning** · `scikit-learn` · `SVM` · `PyTorch` · `Azure ML Studio` · `REST API Inference`
-
-**Tools** · `Git` · `GitHub` · `VS Code` · `DBeaver`
+| **DocuMate automation** | Rebuilt a manual Excel-to-Word consular workflow into a Python-supported document automation and reporting process. |
+| **Processing efficiency** | Reduced document preparation from minutes per record to seconds across batch processing, achieving approximately **~99% efficiency gain**. |
+| **Dispatch backlog support** | Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**. Remaining cases depended mainly on file availability. |
+| **High-volume processing** | Processed 108 records in around 16 seconds. Production runs can handle 1,440-record batches cleanly. |
+| **Data validation** | Reviewed 150+ applicant records weekly and caught missing fields, duplicate records, formatting issues, and workflow inconsistencies before processing. |
+| **Cross-system audit** | Reconciled disconnected records for an ARN audit and delivered clean matched output under time pressure. |
+| **Hybrid Teaching research** | Co-authored a published La Trobe research paper and built dashboards that helped faculty explore student motivation patterns without relying on raw spreadsheets. |
+| **Database redesign** | Restructured flat data into normalised relational models, making queries more consistent and reducing report generation time by around 30%. |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏛️ Consulate General of India, Melbourne
+### 🏛️ Consulate General of India, Melbourne  
 **Data Analyst, Administrative & Consular Operations** · *Sep 2024 to Present*
 
-I support consular operations and build internal tools that reduce manual work and improve visibility across the workflow.
+I support consular operations by improving how applicant records, workflow data, validation checks, and reporting outputs are handled across the team.
 
-🔹 **Built DocuMate**, an internal Python automation tool that replaced a manual Excel-to-Word document workflow.
-- **~99% efficiency gain** on document preparation. Minutes per record collapsed into seconds across the batch.
-- Downstream: the **Dispatch team cleared a 96% backlog in one week**. Same workload took close to a month before.
+🔹 **Built DocuMate**, an internal Python-supported automation and reporting pipeline that converted a manual, spreadsheet-bound document workflow into a validated and reportable data process.
 
-🔹 **Designed change-flagging logic** so officers spot updated applicant details without re-reading full application histories.
+- Reduced document preparation from minutes per record to seconds across batch processing.
+- Achieved approximately **~99% efficiency gain** in document preparation.
+- Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**. Remaining cases depended mainly on file availability.
 
-🔹 **Restructured fragmented workflow data** into a normalised PostgreSQL schema with related tables and SQL joins. Records are now queryable and connected to Power BI reporting.
+🔹 **Improved data quality before processing** by adding checks for missing fields, duplicate records, formatting issues, and applicant detail changes.
 
-🔹 **Validate 150+ applicant records weekly.** Catch missing fields, duplicates, and formatting issues before they reach processing.
+🔹 **Restructured fragmented workflow data** into a normalised PostgreSQL schema with related tables and SQL joins, making records queryable and ready for Power BI reporting.
 
-🔹 **Reconciled cross-system records** for a first-passport ARN audit. Identified file numbers from internal records as the join key, matched across systems, and delivered a clean Excel output (name, file number, address, parents' passport number, ARN) under tight time pressure.
+🔹 **Validated 150+ applicant records weekly**, helping officers catch issues before they reached processing or dispatch.
+
+🔹 **Reconciled cross-system records** for a first-passport ARN audit by identifying file numbers as the join key, matching data across disconnected sources, and delivering clean Excel output under time pressure.
 
 **Stack:** Python · PostgreSQL · SQL · Power BI · Excel
 
 ---
 
-### 🎓 La Trobe University, Melbourne
+### 🎓 La Trobe University, Melbourne  
 **Data Analyst, Research Project** · *Jun 2023 to Jan 2024*
 
 Co-authored a published research paper with six faculty members on student motivation in hybrid teaching environments.
 
-🔹 **Cleaned and structured** raw Excel survey data using Python and R, ready for analysis.
+🔹 **Converted raw survey data into analysis-ready datasets** using Python and R, supporting exploratory analysis, statistical interpretation, and model development.
 
-🔹 **Built classification models** in scikit-learn (SVM) to distinguish intrinsic from extrinsic motivation patterns.
-- Local `.pkl` inference: **96.81%** accuracy. Azure ML REST endpoint: **98.93%**. Audited the gap between the two.
+🔹 **Built classification models** in scikit-learn to distinguish intrinsic and extrinsic motivation patterns.
 
-🔹 **Built Power BI dashboards** using DAX and Power Query so faculty could explore motivation trends by campus, gender, and teaching mode without going back to spreadsheets.
+- Local `.pkl` inference: **96.81%** accuracy.
+- Azure ML REST endpoint: **98.93%** accuracy.
+- Audited the gap between local and Azure inference results.
 
-🔹 **Delivered a Streamlit app** for the research team to use the model interactively.
+🔹 **Built Power BI dashboards** using Power Query and DAX so faculty could explore motivation trends by campus, gender, and teaching mode without going back to raw spreadsheets.
 
-🔹 **Outcomes:** the paper was published. Faculty now use the dashboards to spot motivation gaps across student groups. Findings linked hybrid teaching to a measurable improvement in engagement indicators (~27%).
+🔹 **Delivered a Streamlit app** that allowed the research team to interact with the model and test motivation prediction inputs.
+
+🔹 **Outcome:** the paper was published, and the dashboards helped faculty interpret student motivation patterns across different groups and teaching conditions.
 
 **Stack:** Python · R · scikit-learn · Power BI · DAX · Streamlit · Azure ML Studio
 
 ---
 
-### 💻 FIS Global, Mumbai
+### 💻 FIS Global, Mumbai  
 **Junior Software Engineer** · *Aug 2020 to Mar 2021*
 
-Application support for an ATS platform.
+Worked in application support for **ACBS Transaction Server**, a commercial lending and banking transaction platform.
 
-🔹 Analysed application logs to identify recurring performance and throughput problems.
+🔹 Analysed application logs to identify recurring performance and throughput issues.
 
-🔹 Worked on configuration and workflow fixes that improved availability and processing throughput.
+🔹 Worked on configuration and workflow fixes that improved processing stability.
 
-🔹 Investigated issues that had been escalated to external vendors and resolved internal configuration causes.
+🔹 Investigated vendor-escalated issues and identified internal configuration causes.
 
-**Stack:** Log analysis · Application support · Configuration analysis
+**Stack:** Log analysis · Application support · Configuration analysis · Banking transaction systems
 
 ---
 
@@ -112,36 +104,41 @@ Application support for an ATS platform.
 
 🔗 [GitHub Repository](https://github.com/angad08/DocuMate-analytics-pipeline)
 
-> Internal tool I built at the Consulate to replace a manual document preparation workflow. Real users. Real backlog. Real outcome.
+> Internal tool built to convert a manual consular document workflow into a faster, validated, and reportable data process.
 
 **🔴 Problem**
 
-Each consular record needed manual preparation across Excel and Word. Format, check, validate, generate document. At consular volumes, the Dispatch team was carrying weeks of backlog. Records sat waiting. Errors slipped through.
+Document preparation was handled manually across Excel and Word. Each record required checking, formatting, validation, and document generation. At consular volumes, this created delays, backlog pressure, and a higher chance of errors entering the workflow.
 
 **🟡 Solution**
 
-Started as a Python script reading from Excel into Word templates. Evolved across versions into a structured pipeline.
+Built DocuMate as a Python-supported automation and reporting pipeline.
 
-- Normalised PostgreSQL schema as the data source
-- SQL joins to pull related records
-- Python orchestration layer
-- Batched Word Mail Merge for high-volume runs
-- Power BI reporting on the same data
+- Normalised PostgreSQL schema as the structured data layer
+- SQL joins to connect related applicant and workflow records
+- Python orchestration for validation and processing
+- Batched Word Mail Merge for high-volume document generation
+- Power BI reporting for backlog, processing status, and data quality visibility
 
 **🟢 Impact**
 
 *Direct result of automation:*
-- **~99% efficiency gain** on document preparation. Minutes per record turned into seconds across the batch.
-- 108 records process in ~16 seconds. Production batches of 1,440 records run cleanly in the same architecture.
-- Validation now happens **before** documents are generated, not after errors are found.
+
+- Reduced document preparation from minutes per record to seconds across batch processing.
+- Achieved approximately **~99% efficiency gain** in document preparation.
+- Processed 108 records in around 16 seconds.
+- Production runs can handle 1,440-record batches cleanly.
+- Validation now happens before documents are generated, not after errors are found.
 
 *What that enabled downstream:*
-- **Dispatch team cleared a 96% backlog in one week.** That same workload had been taking close to a month.
-- Workflow data is now queryable and reportable instead of trapped in spreadsheets.
+
+- Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**.
+- Remaining cases depended mainly on file availability.
+- Workflow data became queryable, reportable, and easier to audit instead of staying trapped in spreadsheets.
 
 **🎯 Outcome**
 
-A manual operational process became a data-driven workflow with reporting visibility. Officers trust the output. Dispatch caught up on a backlog that used to feel permanent.
+A manual operational process became a data-driven workflow with validation, automation, and reporting visibility. The work supported faster processing, cleaner records, and better day-to-day operational decisions.
 
 **Stack:** Python · PostgreSQL · SQL · Power BI · Excel · Word Mail Merge
 
@@ -151,33 +148,33 @@ A manual operational process became a data-driven workflow with reporting visibi
 
 🔗 [Streamlit App](https://hybmotvnsurvey.streamlit.app/)
 
-> Co-authored research project at La Trobe. Six faculty members. One published paper.
+> Published La Trobe research project using survey analytics, machine learning, dashboards, and interactive reporting.
 
 **🔴 Problem**
 
-The research team had raw survey data on student motivation in hybrid teaching. Six faculty members. No clear way to clean it, model it, or present findings to a non-technical audience.
+The research team had raw student motivation survey data from a hybrid teaching environment. The data needed to be cleaned, analysed, modelled, and presented in a way that non-technical faculty members could use.
 
 **🟡 Solution**
 
-End-to-end analytics workflow.
+Built an end-to-end analytics workflow.
 
-- Cleaned and structured the raw survey responses
+- Cleaned and structured raw survey responses
 - Ran exploratory analysis to surface motivation patterns
-- Built SVM classification models to separate intrinsic from extrinsic motivation
-- Compared local `.pkl` inference (96.81%) with Azure ML REST endpoint (98.93%) and audited the gap
-- Built Power BI dashboards for the research team
-- Delivered a Streamlit app for interactive use
+- Built SVM classification models to distinguish intrinsic and extrinsic motivation
+- Compared local `.pkl` inference with Azure ML REST endpoint results
+- Built Power BI dashboards for faculty-level exploration
+- Delivered a Streamlit app for interactive model use
 
 **🟢 Impact**
 
-- **Paper published** with six faculty members as co-authors.
-- Faculty now use the dashboards to spot motivation gaps by campus, gender, and teaching mode.
-- Spreadsheet-based review replaced with a dashboard the team can return to.
-- Findings supported the conclusion that hybrid teaching improved engagement indicators (~27%).
+- Co-authored a published paper with six faculty members.
+- Replaced spreadsheet-based review with dashboards that faculty could return to.
+- Helped faculty explore motivation gaps by campus, gender, and teaching mode.
+- Turned raw survey data into a reusable analytics workflow instead of a static research spreadsheet.
 
 **🎯 Outcome**
 
-Raw survey data became a published research output and an ongoing tool the faculty actually use. The analysis didn't sit in a folder.
+Raw survey data became a published research output, an interactive dashboard, and a reusable analytics workflow.
 
 **Stack:** Python · R · scikit-learn · Power BI · Streamlit · Azure ML Studio
 
@@ -189,21 +186,21 @@ Raw survey data became a published research output and an ongoing tool the facul
 
 **🔴 Problem**
 
-Service-matching data sat in a flat structure. Reports were slow. Queries were unreliable. Adding new logic meant rewriting from scratch.
+Service-matching data was stored in a flat structure. Reports were slow, queries were harder to maintain, and adding new logic required unnecessary rework.
 
 **🟡 Solution**
 
-Normalised the schema. Designed proper relational tables with primary and foreign keys. Implemented in Oracle PL/SQL with stored procedures.
+Redesigned the data structure into normalised relational tables with primary and foreign keys. Implemented reporting logic using Oracle PL/SQL and stored procedures.
 
 **🟢 Impact**
 
-- Report generation time dropped by ~30%.
-- Queries became consistent and predictable.
-- The schema can absorb new logic without breaking older reports.
+- Reduced report generation time by around 30%.
+- Made queries more consistent and easier to maintain.
+- Created a structure that could support new logic without breaking older reports.
 
 **🎯 Outcome**
 
-A reporting layer that the team can rely on, instead of one they have to babysit.
+A fragile reporting setup became a more reliable relational database design that was easier to query, maintain, and extend.
 
 **Stack:** Oracle PL/SQL · SQL · Database Design · Stored Procedures
 
@@ -215,32 +212,46 @@ A reporting layer that the team can rely on, instead of one they have to babysit
 
 **🔴 Problem**
 
-Build a multi-class news classifier without leaning on pre-trained transformer models.
+Build a multi-class news classifier without relying on pre-trained transformer models.
 
 **🟡 Solution**
 
-Custom text-processing pipeline. Tokenisation, embeddings, training loop, evaluation. Built from the ground up.
+Created a custom text-classification pipeline with tokenisation, embeddings, training loop, and evaluation built from the ground up.
 
 **🟢 Impact**
 
-- 77% accuracy across four news categories.
-- Working understanding of every layer in the pipeline, beyond surface-level API use.
+- Achieved 77% accuracy across four news categories.
+- Built practical understanding of NLP fundamentals beyond surface-level API use.
 
 **🎯 Outcome**
 
-Hands-on grounding in NLP fundamentals. The kind of project where you build the model, you don't just call one.
+A hands-on NLP project that strengthened understanding of model training, text preprocessing, and classification workflows.
 
 **Stack:** Python · PyTorch · NLP
 
 ---
 
+## 🛠️ Core Skills & Tools
+
+**Data Analysis & BI** · `SQL` · `Power BI` · `DAX` · `Power Query` · `Excel` · `Data Modelling` · `EDA` · `KPI Reporting`
+
+**Programming & Automation** · `Python` · `R` · `pandas` · `NumPy` · `Streamlit`
+
+**Databases & Cloud Exposure** · `PostgreSQL` · `MySQL` · `Oracle PL/SQL` · `Azure SQL` · `AWS RDS` · `ODBC`
+
+**Machine Learning & Applied Analytics** · `scikit-learn` · `SVM` · `PyTorch` · `Azure ML Studio` · `REST API Inference`
+
+**Tools** · `Git` · `GitHub` · `VS Code` · `DBeaver`
+
+---
+
 ## 🎓 Education
 
-**Master of Data Science**
-La Trobe University, Melbourne · *Feb 2022 to Dec 2023*
-Focus: BI, predictive analytics, statistical modelling, data visualisation, ML, research analytics.
+**Master of Data Science**  
+La Trobe University, Melbourne · *Feb 2022 to Dec 2023*  
+Focus: BI, predictive analytics, statistical modelling, data visualisation, machine learning, and research analytics.
 
-**Bachelor of Engineering, Information Technology**
+**Bachelor of Engineering, Information Technology**  
 PVPPCOE, Mumbai · *Aug 2014 to Aug 2019*
 
 ---
