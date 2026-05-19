@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | BI Analyst | Junior Data Scientist | SQL | Power BI | Python
 
-> _I turn raw data, messy workflows, and unclear questions into dashboards, models, validation checks, and reporting that people can actually use._
+> _I turn raw data into reporting, dashboards, models, validation checks, and practical decision support._
 
 📍 Melbourne, VIC, Australia · Open to relocate  
 📧 [angadkadam08@gmail.com](mailto:angadkadam08@gmail.com) · 📱 +61 405 636 599  
@@ -12,47 +12,28 @@
 
 ## 👤 Profile
 
-Data professional with a Master of Data Science and hands-on experience across **SQL, Power BI, Python, R, PostgreSQL, BI reporting, data validation, workflow automation, and applied machine learning**.
+Reduced manual document preparation from minutes per record to seconds, delivered around **99% processing efficiency**, and helped clear approximately **88% of a pending operational backlog within one week** through DocuMate, a Python and PostgreSQL-backed automation and reporting workflow.
 
-My work sits between data analysis, business intelligence, and practical data science. I clean and structure data, explore patterns, build dashboards, validate outputs, compare model behaviour, and turn analysis into something stakeholders can use without going back to raw spreadsheets.
+Contributed to a published La Trobe research output by turning raw student survey responses into cleaned datasets, exploratory analysis, SVM classification models, Power BI dashboards, and a Streamlit app that helped faculty explore motivation patterns across student groups.
 
-Two projects show that range clearly:
+Data professional with a Master of Data Science and hands-on experience across **SQL, Power BI, Python, R, PostgreSQL, BI reporting, data validation, dashboarding, workflow automation, and applied machine learning**.
 
-- **DocuMate:** designed and deployed a Python and PostgreSQL-backed automation and reporting workflow that reduced document preparation from minutes per record to seconds and helped clear approximately **88% of a pending operational backlog within one week**.
-- **Hybrid Teaching Motivation Analytics:** contributed to a published La Trobe research output by turning raw survey responses into cleaned datasets, exploratory analysis, SVM classification models, Power BI dashboards, and a Streamlit app for faculty exploration.
-
-The common thread is simple: understand the data, understand the process, find the pattern, and build something useful around it.
+My work is not limited to one tool or one type of project. I care about the full path from messy data to usable insight: clean it, model it, validate it, visualise it, and make it useful for the people who need to decide what happens next.
 
 ---
 
 ## ⚡ Impact at a Glance
 
-| 🎯 Area | 📈 Result |
+| 🎯 Impact | 📈 Evidence |
 |---|---|
-| **Business intelligence & reporting** | Built Power BI dashboards that helped users explore trends, compare groups, and interpret results without returning to raw spreadsheets. |
-| **Applied machine learning** | Built and validated SVM classification models to distinguish intrinsic and extrinsic motivation patterns in student survey data. |
-| **Model deployment validation** | Compared **96.81%** local `.pkl` inference accuracy with **98.93%** Azure ML REST endpoint accuracy to check local vs cloud inference behaviour. |
-| **Data-driven automation** | Designed and deployed DocuMate, replacing manual Excel-to-Word preparation with a Python-supported automation and reporting workflow. |
-| **Processing efficiency** | Reduced document preparation from minutes per record to seconds, delivering around **99% processing efficiency**. |
-| **Operational analytics** | Helped reduce a high-volume operational backlog by approximately **88% within one week**, compared with around one month manually. |
-| **SQL & data modelling** | Restructured fragmented workflow data into a normalised PostgreSQL model with SQL joins, making records queryable and Power BI-ready. |
-| **Data validation** | Added checks for missing fields, duplicate entries, formatting inconsistencies, and record-level changes before processing. |
-| **Database redesign** | Reduced report generation time by around **30%** by restructuring flat data into a normalised relational model. |
-
----
-
-## 🧠 What I Bring to Data Roles
-
-I am interested in roles where data is used to explain what is happening, improve decisions, and make reporting or analysis easier to trust.
-
-- **Data analysis:** cleaning, structuring, exploring, and interpreting data using Python, R, SQL, and Excel
-- **Business intelligence:** Power BI dashboards, KPI reporting, Power Query, DAX, and stakeholder-facing reporting
-- **SQL and data modelling:** PostgreSQL, relational schemas, joins, validation queries, and reporting-ready data structures
-- **Applied machine learning:** classification models, model evaluation, local vs cloud inference checks, and practical interpretation
-- **Data quality:** validation checks, duplicate detection, missing-field handling, formatting checks, and cross-system reconciliation
-- **Automation and workflow improvement:** using Python to reduce repeated manual work and connect data processing with reporting
-
-The goal is not just to use tools. The goal is to make data easier to understand, easier to trust, and easier to act on.
+| **Reduced manual processing time** | Cut document preparation from minutes per record to seconds through a Python and PostgreSQL-backed automation and reporting workflow. |
+| **Improved operational throughput** | Helped clear approximately **88% of a pending operational backlog within one week**, compared with around one month manually. |
+| **Enabled self-serve analysis** | Built Power BI dashboards that helped faculty explore motivation patterns by gender, campus, and teaching mode without repeatedly returning to raw spreadsheets. |
+| **Supported published research** | Contributed to a La Trobe research output by combining survey data preparation, exploratory analysis, classification modelling, dashboards, and interpretation support. |
+| **Validated model behaviour** | Compared **96.81%** local `.pkl` inference accuracy with **98.93%** Azure ML REST endpoint accuracy to check local vs cloud inference consistency. |
+| **Improved reporting readiness** | Restructured fragmented workflow data into a normalised PostgreSQL model with SQL joins, making records queryable and Power BI-ready. |
+| **Strengthened data quality** | Added checks for missing fields, duplicate entries, formatting inconsistencies, and record-level changes before processing. |
+| **Improved database reporting** | Reduced report generation time by around **30%** by restructuring flat data into a normalised relational model. |
 
 ---
 
@@ -73,9 +54,9 @@ Internal data, automation, and reporting role focused on improving high-volume w
 
 🔹 **Reduced repeated manual review cycles** by designing validation and change-flagging logic to catch missing fields, duplicate entries, formatting inconsistencies, and updated record details before processing.
 
-🔹 **Supported audit and reconciliation work** by identifying a reliable join key across disconnected systems and producing clean matched Excel outputs under tight time pressure.
+🔹 **Delivered audit-ready cross-system output under time pressure** by identifying a reliable join key, reconciling disconnected records, and producing clean matched Excel outputs for review.
 
-🔹 **Translated operational pain points into data solutions** by working with internal users to understand recurring workflow issues and convert them into validation, automation, and reporting logic.
+🔹 **Translated workflow pain points into data solutions** by working with internal users to understand recurring issues and convert them into validation, automation, and reporting logic.
 
 **Stack:** Python · PostgreSQL · SQL · Power BI · Excel
 
@@ -86,7 +67,9 @@ Internal data, automation, and reporting role focused on improving high-volume w
 
 Faculty-supervised research project examining intrinsic and extrinsic motivation in hybrid teaching environments using survey data, classification modelling, BI dashboards, and interactive reporting.
 
-🔹 **Converted raw survey responses into research-ready evidence** by cleaning and structuring inconsistent Excel data in Python and R, then running exploratory analysis to surface early motivation patterns.
+🔹 **Contributed to a published research output** by translating raw student motivation data into model-backed insights, dashboards, and interpretation support for faculty stakeholders.
+
+🔹 **Turned inconsistent survey responses into research-ready evidence** by cleaning and structuring Excel data in Python and R, then running exploratory analysis to surface early motivation patterns.
 
 🔹 **Distinguished intrinsic and extrinsic motivation patterns** by building and validating SVM classification models in scikit-learn.
 
@@ -94,11 +77,9 @@ Faculty-supervised research project examining intrinsic and extrinsic motivation
 - Azure ML REST endpoint inference: **98.93%** accuracy.
 - Audited the difference between local and cloud inference results to check deployment behaviour.
 
-🔹 **Enabled faculty self-serve exploration of motivation patterns** by building Power BI dashboards with Power Query and DAX across gender, campus, and teaching mode.
+🔹 **Enabled faculty self-serve exploration of motivation trends** by building Power BI dashboards with Power Query and DAX across gender, campus, and teaching mode.
 
 🔹 **Made the model easier to use** by delivering a Streamlit app for interactive motivation prediction inputs.
-
-🔹 **Contributed to a published research output** by translating survey data into model-backed insights that supported clearer interpretation of motivation, engagement, and learning-mode patterns.
 
 **Stack:** Python · R · scikit-learn · Power BI · DAX · Streamlit · Azure ML Studio
 
@@ -109,7 +90,7 @@ Faculty-supervised research project examining intrinsic and extrinsic motivation
 
 Junior software engineering role supporting **ACBS Transaction Server**, a commercial lending and banking transaction processing platform used by financial institutions.
 
-🔹 **Identified recurring performance and throughput issues** by analysing transaction logs and recurring incidents on the platform.
+🔹 **Improved issue diagnosis for banking transaction workflows** by analysing transaction logs and recurring incidents on the platform.
 
 🔹 **Supported processing stability** by working on workflow and configuration fixes.
 
@@ -125,13 +106,13 @@ Junior software engineering role supporting **ACBS Transaction Server**, a comme
 
 🔗 [GitHub Repository](https://github.com/angad08/DocuMate-analytics-pipeline)
 
-> A practical data project combining Python automation, PostgreSQL, validation checks, and reporting visibility.
+> **Impact:** reduced preparation time from minutes to seconds, delivered around **99% processing efficiency**, and helped clear approximately **88% of a pending operational backlog within one week**.
 
-**🔴 Problem**
+**Problem**
 
 A high-volume document workflow depended on scattered spreadsheets and manual preparation. The process was slow, repetitive, difficult to validate at scale, and hard to monitor through reporting.
 
-**🟡 What I Built**
+**What I Built**
 
 - Python orchestration for validation and batch processing
 - PostgreSQL-backed data model instead of spreadsheet-only tracking
@@ -140,17 +121,9 @@ A high-volume document workflow depended on scattered spreadsheets and manual pr
 - Validation checks before output generation
 - Power BI-ready tracking for backlog, processing status, and data quality
 
-**🟢 Impact**
+**Outcome**
 
-- Reduced preparation time from minutes per record to seconds.
-- Delivered around **99% processing efficiency** in document preparation.
-- Helped clear approximately **88% of a pending operational backlog within one week**.
-- Processed 108 records in around 16 seconds, with production runs supporting 1,440-record batches.
-- Moved workflow visibility from scattered spreadsheets into a queryable and reportable structure.
-
-**🎯 Outcome**
-
-DocuMate shows how I approach data work: understand the process, structure the data, validate the inputs, automate the repeated steps, and make the output easier to report on.
+DocuMate shows how I approach applied data work: understand the process, structure the data, validate the inputs, automate repeated work, and make the output easier to report on.
 
 **Stack:** Python · PostgreSQL · SQL · Power BI · Excel · Word Mail Merge
 
@@ -160,13 +133,13 @@ DocuMate shows how I approach data work: understand the process, structure the d
 
 🔗 [Streamlit App](https://hybmotvnsurvey.streamlit.app/)
 
-> A published La Trobe research project where survey data became analysis, dashboards, models, and an interactive app.
+> **Impact:** contributed to a published research output by turning raw survey data into cleaned datasets, exploratory analysis, classification models, Power BI dashboards, and an interactive Streamlit app.
 
-**🔴 Problem**
+**Problem**
 
 The research team had raw student motivation survey data from a hybrid teaching environment. The data needed to be cleaned, analysed, modelled, and presented in a way that non-technical faculty could use.
 
-**🟡 What I Built**
+**What I Built**
 
 - Cleaned and structured raw survey responses in Python and R
 - Ran exploratory analysis to surface motivation patterns
@@ -175,17 +148,9 @@ The research team had raw student motivation survey data from a hybrid teaching 
 - Built Power BI dashboards for faculty-level exploration
 - Delivered a Streamlit app for interactive model use
 
-**🟢 Impact**
+**Outcome**
 
-- Contributed to a published research output with six faculty members.
-- Replaced repeated spreadsheet review with dashboards faculty could return to.
-- Helped faculty explore motivation patterns by gender, campus, and teaching mode.
-- Validated model behaviour across local and cloud inference paths.
-- Turned raw survey data into a reusable analytics workflow.
-
-**🎯 Outcome**
-
-The project connects research analytics, BI reporting, and applied machine learning. It is the clearest example of my junior data science side: data cleaning, EDA, modelling, dashboarding, deployment checks, and stakeholder-facing interpretation in one workflow.
+The project connects research analytics, BI reporting, and applied machine learning. It shows the junior data science side of my work: data cleaning, EDA, modelling, dashboarding, deployment checks, and stakeholder-facing interpretation in one workflow.
 
 **Stack:** Python · R · scikit-learn · Power BI · Streamlit · Azure ML Studio
 
@@ -195,21 +160,17 @@ The project connects research analytics, BI reporting, and applied machine learn
 
 🔗 [Project Link](https://bit.ly/4ldpA1d)
 
-**🔴 Problem**
+> **Impact:** reduced report generation time by around **30%** by redesigning a flat dataset into a normalised relational model.
+
+**Problem**
 
 Service-matching data was stored in a flat structure. Reports were slow, queries were harder to maintain, and adding new logic meant unnecessary rework.
 
-**🟡 What I Built**
+**What I Built**
 
 Redesigned the data into normalised relational tables with primary and foreign keys, then implemented reporting logic using Oracle PL/SQL and stored procedures.
 
-**🟢 Impact**
-
-- Reduced report generation time by around 30%.
-- Improved data integrity and query consistency.
-- Created a reporting structure that could support new logic without breaking older reports.
-
-**🎯 Outcome**
+**Outcome**
 
 A fragile reporting setup became a more dependable relational design that was easier to query, maintain, and extend.
 
@@ -221,20 +182,17 @@ A fragile reporting setup became a more dependable relational design that was ea
 
 🔗 [Project Link](https://bit.ly/47chy57)
 
-**🔴 Problem**
+> **Impact:** reached **77% accuracy** across four news categories while building the classification pipeline without pre-trained transformer models.
+
+**Problem**
 
 Build a multi-class news classifier without relying on pre-trained transformer models.
 
-**🟡 What I Built**
+**What I Built**
 
 Created a custom text-classification pipeline with tokenisation, embeddings, a training loop, and evaluation built from the ground up.
 
-**🟢 Impact**
-
-- Reached 77% accuracy across four news categories.
-- Built practical understanding of NLP fundamentals beyond surface-level API use.
-
-**🎯 Outcome**
+**Outcome**
 
 A hands-on NLP project that strengthened understanding of model training, text preprocessing, and classification workflows.
 
