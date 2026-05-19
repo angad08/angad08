@@ -24,9 +24,9 @@ I work mainly with **SQL, Power BI, Python, PostgreSQL, Excel, and R**, with han
 
 | 🎯 Area | 📈 Result |
 |---|---|
-| **DocuMate automation** | Rebuilt a manual Excel-to-Word operational workflow into a Python-supported document automation and reporting process. |
+| **DocuMate automation** | Rebuilt a manual Excel-to-Word operational workflow into a Python-supported automation and reporting process. |
 | **Processing efficiency** | Reduced document preparation from minutes per record to seconds across batch processing, achieving approximately **~99% efficiency gain**. |
-| **Backlog reduction** | Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**. Remaining records depended mainly on source file availability. |
+| **Backlog reduction** | Helped reduce a high-volume operational backlog by approximately **89% in one week** after the workflow became automated and reportable. |
 | **High-volume processing** | Processed 108 records in around 16 seconds. Production runs can handle 1,440-record batches cleanly. |
 | **Data validation** | Reviewed 150+ operational records weekly and caught missing fields, duplicate records, formatting issues, and workflow inconsistencies before processing. |
 | **Cross-system audit** | Reconciled disconnected records for an ARN audit and delivered clean matched output under time pressure. |
@@ -46,13 +46,13 @@ I support operational reporting, workflow improvement, validation checks, and da
 
 - Reduced document preparation from minutes per record to seconds across batch processing.
 - Achieved approximately **~99% efficiency gain** in document preparation.
-- Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**. Remaining records depended mainly on source file availability.
+- Helped reduce a high-volume operational backlog by approximately **89% in one week** after the workflow became automated and reportable.
 
 🔹 **Improved data quality before processing** by adding checks for missing fields, duplicate records, formatting issues, and record-level changes.
 
 🔹 **Restructured fragmented workflow data** into a normalised PostgreSQL schema with related tables and SQL joins, making records queryable and ready for Power BI reporting.
 
-🔹 **Validated 150+ operational records weekly**, helping the team catch issues before they reached processing or dispatch.
+🔹 **Validated 150+ operational records weekly**, helping the team catch issues before they reached the next stage of processing.
 
 🔹 **Reconciled cross-system records** for an ARN audit by identifying file numbers as the join key, matching data across disconnected sources, and delivering clean Excel output under time pressure.
 
@@ -132,7 +132,7 @@ Built DocuMate as a Python-supported automation and reporting pipeline.
 
 *What that enabled downstream:*
 
-- Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**.
+- Helped reduce a high-volume operational backlog by approximately **89% in one week** after the workflow became automated and reportable.
 - Remaining records depended mainly on source file availability.
 - Workflow data became queryable, reportable, and easier to audit instead of staying trapped in spreadsheets.
 
