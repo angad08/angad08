@@ -14,6 +14,8 @@
 
 Rebuilt a manual Excel-to-Word workflow into a Python-supported automation and reporting pipeline, reducing document preparation time by approximately **~99%** and helping reduce a high-volume operational backlog by approximately **89% in one week**.
 
+Co-authored a published La Trobe research project by turning raw student survey data into analysis-ready datasets, Power BI dashboards, and an applied machine learning workflow that helped faculty explore motivation patterns without relying on raw spreadsheets.
+
 Data Analyst with a Master of Data Science from La Trobe University, currently working across reporting, validation, workflow improvement, and data visibility at the Consulate General of India, Melbourne. I work mainly with SQL, Power BI, Python, PostgreSQL, Excel, and R, with hands-on exposure to Azure ML, AWS RDS, Azure SQL, and Oracle PL/SQL.
 
 My work follows a simple pattern: read the data, understand the workflow, find where the process breaks, and build something the team can actually use.
