@@ -12,14 +12,15 @@
 
 ## 👤 Profile
 
-Rebuilt a manual Excel-to-Word workflow into a Python-supported automation and reporting pipeline, reducing document preparation time by approximately **~99%** and helping reduce a high-volume operational backlog by approximately **89% in one week**.
+I notice broken workflows the way other people notice broken dashboards.
 
-Co-authored a published La Trobe research project by turning raw student survey data into analysis-ready datasets, Power BI dashboards, and an applied machine learning workflow that helped faculty explore motivation patterns without relying on raw spreadsheets.
+At the Consulate General of India, Melbourne, I rebuilt a manual Excel-to-Word workflow into a Python-supported automation and reporting pipeline, reducing document preparation time by approximately **~99%** and helping reduce a high-volume operational backlog by approximately **89% in one week**.
 
-Data Analyst with a Master of Data Science from La Trobe University, currently working across reporting, validation, workflow improvement, and data visibility at the Consulate General of India, Melbourne. I work mainly with SQL, Power BI, Python, PostgreSQL, Excel, and R, with hands-on exposure to Azure ML, AWS RDS, Azure SQL, and Oracle PL/SQL.
+At La Trobe University, I turned raw student survey data into analysis-ready datasets, Power BI dashboards, and an applied machine learning workflow for a published research project on hybrid teaching motivation. The work helped faculty explore motivation patterns across student groups without relying on raw spreadsheets.
 
-My work follows a simple pattern: read the data, understand the workflow, find where the process breaks, and build something the team can actually use.
+Data Analyst with a Master of Data Science, working across SQL, Power BI, Python, PostgreSQL, Excel, R, data validation, reporting, workflow improvement, and applied analytics.
 
+My work usually starts with one question: **what is the data showing us that the current process is missing?**
 ---
 
 ## ⚡ Impact at a Glance
