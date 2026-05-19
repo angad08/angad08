@@ -24,11 +24,11 @@ I work mainly with **SQL, Power BI, Python, PostgreSQL, Excel, and R**, with han
 
 | 🎯 Area | 📈 Result |
 |---|---|
-| **DocuMate automation** | Rebuilt a manual Excel-to-Word consular workflow into a Python-supported document automation and reporting process. |
+| **DocuMate automation** | Rebuilt a manual Excel-to-Word operational workflow into a Python-supported document automation and reporting process. |
 | **Processing efficiency** | Reduced document preparation from minutes per record to seconds across batch processing, achieving approximately **~99% efficiency gain**. |
-| **Dispatch backlog support** | Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**. Remaining cases depended mainly on file availability. |
+| **Backlog reduction** | Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**. Remaining records depended mainly on source file availability. |
 | **High-volume processing** | Processed 108 records in around 16 seconds. Production runs can handle 1,440-record batches cleanly. |
-| **Data validation** | Reviewed 150+ applicant records weekly and caught missing fields, duplicate records, formatting issues, and workflow inconsistencies before processing. |
+| **Data validation** | Reviewed 150+ operational records weekly and caught missing fields, duplicate records, formatting issues, and workflow inconsistencies before processing. |
 | **Cross-system audit** | Reconciled disconnected records for an ARN audit and delivered clean matched output under time pressure. |
 | **Hybrid Teaching research** | Co-authored a published La Trobe research paper and built dashboards that helped faculty explore student motivation patterns without relying on raw spreadsheets. |
 | **Database redesign** | Restructured flat data into normalised relational models, making queries more consistent and reducing report generation time by around 30%. |
@@ -38,23 +38,23 @@ I work mainly with **SQL, Power BI, Python, PostgreSQL, Excel, and R**, with han
 ## 💼 Professional Experience
 
 ### 🏛️ Consulate General of India, Melbourne  
-**Data Analyst, Administrative & Consular Operations** · *Sep 2024 to Present*
+**Data Analyst, Operations Reporting & Process Improvement** · *Sep 2024 to Present*
 
-I support consular operations by improving how applicant records, workflow data, validation checks, and reporting outputs are handled across the team.
+I support operational reporting, workflow improvement, validation checks, and data-driven visibility across internal processes.
 
 🔹 **Built DocuMate**, an internal Python-supported automation and reporting pipeline that converted a manual, spreadsheet-bound document workflow into a validated and reportable data process.
 
 - Reduced document preparation from minutes per record to seconds across batch processing.
 - Achieved approximately **~99% efficiency gain** in document preparation.
-- Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**. Remaining cases depended mainly on file availability.
+- Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**. Remaining records depended mainly on source file availability.
 
-🔹 **Improved data quality before processing** by adding checks for missing fields, duplicate records, formatting issues, and applicant detail changes.
+🔹 **Improved data quality before processing** by adding checks for missing fields, duplicate records, formatting issues, and record-level changes.
 
 🔹 **Restructured fragmented workflow data** into a normalised PostgreSQL schema with related tables and SQL joins, making records queryable and ready for Power BI reporting.
 
-🔹 **Validated 150+ applicant records weekly**, helping officers catch issues before they reached processing or dispatch.
+🔹 **Validated 150+ operational records weekly**, helping the team catch issues before they reached processing or dispatch.
 
-🔹 **Reconciled cross-system records** for a first-passport ARN audit by identifying file numbers as the join key, matching data across disconnected sources, and delivering clean Excel output under time pressure.
+🔹 **Reconciled cross-system records** for an ARN audit by identifying file numbers as the join key, matching data across disconnected sources, and delivering clean Excel output under time pressure.
 
 **Stack:** Python · PostgreSQL · SQL · Power BI · Excel
 
@@ -104,18 +104,18 @@ Worked in application support for **ACBS Transaction Server**, a commercial lend
 
 🔗 [GitHub Repository](https://github.com/angad08/DocuMate-analytics-pipeline)
 
-> Internal tool built to convert a manual consular document workflow into a faster, validated, and reportable data process.
+> Internal tool built to convert a manual document workflow into a faster, validated, and reportable data process.
 
 **🔴 Problem**
 
-Document preparation was handled manually across Excel and Word. Each record required checking, formatting, validation, and document generation. At consular volumes, this created delays, backlog pressure, and a higher chance of errors entering the workflow.
+Document preparation was handled manually across Excel and Word. Each record required checking, formatting, validation, and document generation. At operational volumes, this created delays, backlog pressure, and a higher chance of errors entering the workflow.
 
 **🟡 Solution**
 
 Built DocuMate as a Python-supported automation and reporting pipeline.
 
 - Normalised PostgreSQL schema as the structured data layer
-- SQL joins to connect related applicant and workflow records
+- SQL joins to connect related workflow records
 - Python orchestration for validation and processing
 - Batched Word Mail Merge for high-volume document generation
 - Power BI reporting for backlog, processing status, and data quality visibility
@@ -132,8 +132,8 @@ Built DocuMate as a Python-supported automation and reporting pipeline.
 
 *What that enabled downstream:*
 
-- Helped the Dispatch team clear approximately **480 of 540 passport dispatch cases in one week**, around **89% of the backlog**.
-- Remaining cases depended mainly on file availability.
+- Helped the Dispatch team clear approximately **480 of 540 backlog records in one week**, around **89% of the pending workload**.
+- Remaining records depended mainly on source file availability.
 - Workflow data became queryable, reportable, and easier to audit instead of staying trapped in spreadsheets.
 
 **🎯 Outcome**
