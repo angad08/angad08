@@ -21,6 +21,7 @@ At La Trobe University, I turned raw student survey data into analysis-ready dat
 Data Analyst with a Master of Data Science, working across SQL, Power BI, Python, PostgreSQL, Excel, R, data validation, reporting, workflow improvement, and applied analytics.
 
 My work usually starts with one question: **what is the data showing us that the current process is missing?**
+
 ---
 
 ## ⚡ Impact at a Glance
